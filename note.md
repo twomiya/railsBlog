@@ -1,5 +1,5 @@
-# rails note
-## Active Record
+## rails note
+### Active Record
 
 #### 什么是Active Record
 * Active Record 是MVC的M（模型），负责处理数据和业务逻辑
